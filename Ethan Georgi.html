@@ -12,6 +12,8 @@
     <style type="text/css">
     body {
         background-color: #e0e0e0;
+        margin: 0;
+        padding: 0;
     }
     #layout {
         border: 3px solid #b0b0b0;
@@ -20,7 +22,7 @@
         width: 50%;
         max-width: 600px;
         min-width: 275px;
-        margin: 0 auto;
+        margin: 3% auto;
         font-family: Helvetica, sans-serif;
         font-size: 14px;
         line-height: 1.25em;
@@ -40,6 +42,11 @@
         color: #303090;
     }
     @media all and (max-width: 650px) {
+        #layout {
+            border: 0;
+            width: 90%;
+            margin: 0 auto;
+        }
         h1 span {
             display: block;
         }
