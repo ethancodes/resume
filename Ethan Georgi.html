@@ -25,15 +25,33 @@
         font-size: 14px;
         line-height: 1.25em;
     }
+    h1 {
+        font-size: 20px;
+        line-height: 1.5em;
+    }
+    h1 span {
+        font-weight: normal;
+    }
+    h3 {
+        font-size: 16px;
+        line-height: 1.5em;
+    }
     a {
         color: #303090;
+    }
+    @media all and (max-width: 650px) {
+        h1 span {
+            display: block;
+        }
     }
     </style>
 </head>
 
 <body><div id="layout">
 
-<h1>Ethan Georgi / Web Development</h1>
+<h1>
+    Ethan Georgi <span>/ Web Development</span>
+</h1>
 
 <p>
 <strong>Email</strong>: <a href="mailto:e@ethancodes.com">e@ethancodes.com</a><br />
