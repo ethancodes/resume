@@ -26,9 +26,10 @@ WEB DEVELOPMENT EXPERIENCE
    ◦ Drupal administration, technical support and training
    ◦ Extensive experience with versions 6, 7 and 8
  • Familiarty with social networking APIs
+ • Handy with XML but prefer JSON
  • SEO friendly
  • Enthusiastic about documentation and version control
- • A bajillion years of experience with LAMP
+ • A bajillion years of experience with LAMP (Linux, Apache, MySQL, PHP)
 
 
 WORK HISTORY
